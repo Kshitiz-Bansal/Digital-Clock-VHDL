@@ -36,6 +36,7 @@ All of the major design decisions were taken keeping in mind the convenience of 
 Two entity-architecture pairs have been defined:
 1) to_display
 2) dig_clock
+
 Please refer to [this document](Project_Description.pdf) for detailed discussion.
 
 
