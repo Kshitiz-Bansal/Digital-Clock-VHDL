@@ -38,4 +38,8 @@ Two entity-architecture pairs have been defined:
 2) dig_clock
 Please refer to [this document](Project_Description.pdf) for detailed discussion.
 
+
+
+
+
 **Note:** Due to covid, we were unable to access the lab and therefore the equipment (BASYS3 FPGA boards). The above code has not (yet) been run on a board. Might need some debugging.
