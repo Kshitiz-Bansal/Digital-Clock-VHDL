@@ -40,7 +40,7 @@ Two entity-architecture pairs have been defined:
 Please refer to [this document](Project_Description.pdf) for detailed discussion.
 
 
-
+Course Project | COL215: Digital Logic and System Design | Prof. Anshul Kumar | Fall 2020-21.
 
 
 **Note:** Due to covid, we were unable to access the lab and therefore the equipment (BASYS3 FPGA boards). The above code has not (yet) been run on a board. Might need some debugging.
