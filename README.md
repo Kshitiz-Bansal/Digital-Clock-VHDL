@@ -37,6 +37,9 @@ Two entity-architecture pairs have been defined:
 1) to_display
 2) dig_clock
 
+
+____
+
 Please refer to [this document](Project_Description.pdf) for detailed discussion.
 
 
